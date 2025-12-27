@@ -71,7 +71,7 @@ ffprobe -version
 
 ### 코드에 ffmpeg 경로 반영
 
-`app.py` 상단의 `DEFAULT_FFMPEG_DIR`를 내 환경에 맞게 수정합니다.
+`extract_audio.py` 상단의 `DEFAULT_FFMPEG_DIR`를 내 환경에 맞게 수정합니다.
 
 예)
 ```python
