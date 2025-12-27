@@ -49,7 +49,7 @@ conda activate yt_audio
 
 ## 4) ffmpeg 설치
 
-### 옵션 A (권장): conda로 설치
+### conda로 설치
 
 ```bat
 conda install ffmpeg -y
